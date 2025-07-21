@@ -28,3 +28,4 @@ Proyecto backend construido con Node.js, Express y Firebase Firestore que permit
 
 ---
 EN PROCESO JWT Y FRONTEND DE ACCESO...
+.ENV PUBLICO, LUEGO SE BORRARA POR SEGURIDAD.
